@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>LP.ico</file>
+        <file>LP.png</file>
+        <file>question_mark.png</file>
+        <file>save.png</file>
+        <file>trash.png</file>
+    </qresource>
+</RCC>
