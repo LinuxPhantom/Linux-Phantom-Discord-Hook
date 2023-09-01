@@ -23,6 +23,7 @@ Linux Phantom Webhooks is a Python application built using PyQt5 that provides a
 ## Installation
 
 To use Linux Phantom Webhooks, follow these steps:
+(Easy Install - Launch LinuxPhantom.exe)
 
 1. **Clone this repository:**
 
